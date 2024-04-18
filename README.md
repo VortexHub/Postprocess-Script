@@ -15,4 +15,7 @@ Conversion Flexibility: JSON structures and complex data types into copy and pas
 Uses Fmodel JSON data within Unreal Engine with post-processing script. Enhance your development workflow and overall save time manually copying values.
 
 [CREDIT]
-Make sure to credit https://github.com/VortexHub if reposted
+Make sure to credit https://github.com/VortexHub if reposted.
+
+[NOTE]
+You select the JSON file and it copies to your clipboard.
